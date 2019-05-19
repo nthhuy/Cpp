@@ -1,0 +1,13 @@
+1
+	a. viet ham sap xep mảng vào file bai1.cpp
+	b. viet ham tinh tong tất cả các số lẻ có chỉ số chẵn trong mảng vào file bai1.cpp;
+	c. Viết hàm đảo số tất cả các số trong mảng (12 -> 21 ; 4123 = 3214);
+	d. Viết hàm kiểm tra số nguyên tố trong mảng 
+	 vd 	5
+			2 3 5 7 8 9
+	output  T T T T F F
+	
+3. Viet file .cpp khai báo mảng 2 chiều ,
+ a, viết hàm nhập xuất mảng đó
+ b, đưa ra màn hình tất cả các địa chỉ của các phần tử của mảng 2 chiều đó.
+
