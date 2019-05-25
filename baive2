@@ -1,0 +1,9 @@
+1.Tạo mảng các Sinh viên. thêm dữ liệu điểm trung bình (double)
+ 
+ a Viết hàm in ra thông tin từng sinh viên
+ b Viết hàm nhập cho từng sinh viên , lấy dữ liệu từ tệp
+   Getline();
+   fflush(stdin) - xóa bộ đệm trong c++
+ 
+ c, Viết hàm sắp sắp mảng sinh viên theo điểm trung bình giảm dần
+ 

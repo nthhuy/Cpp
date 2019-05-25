@@ -11,7 +11,7 @@ void sapxep( int m[], int n) {
         cout<<m[i];
     }
 }
-void tinhtongle(int m[], int n)
+int tinhtongle(int m[], int n)
 {
     int sum=0, j;
     for(int i=0; i<n; i++)
@@ -19,7 +19,7 @@ void tinhtongle(int m[], int n)
         if((m[i]%2==1) && (i%2==0))
             sum+=m[i];
     }
-
+return sum;
 }
 int sodaonguoc(int N)
 {
@@ -30,6 +30,7 @@ int sodaonguoc(int N)
         sdn = sdn * 10 + a;
         n = n / 10;
     }
+return sdn;    }
 bool songuyento(int n) {
     if (n < 2)
 		return false;
@@ -37,5 +38,6 @@ bool songuyento(int n) {
     {
 		if (n % i == 0)
 			return false;
+	}
+return true;
 }
-	return true;
